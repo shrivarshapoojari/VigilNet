@@ -1,0 +1,10 @@
+Ether / IP / TCP 192.168.0.106:63618 > 35.174.127.31:https PA / Raw
+Ether / IP / TCP 192.168.0.106:63618 > 35.174.127.31:https PA / Raw
+Ether / IP / TCP 35.174.127.31:https > 192.168.0.106:63618 A
+Ether / IP / TCP 35.174.127.31:https > 192.168.0.106:63618 PA / Raw
+Ether / IP / TCP 192.168.0.106:63618 > 35.174.127.31:https A
+Ether / IP / TCP 20.192.44.68:https > 192.168.0.106:63823 PA / Raw
+Ether / IP / TCP 192.168.0.106:63823 > 20.192.44.68:https A
+Ether / IP / TCP 52.98.34.194:https > 192.168.0.106:64444 A
+Ether / IP / TCP 192.168.0.106:64444 > 52.98.34.194:https A
+Ether / IP / TCP 20.167.82.254:https > 192.168.0.106:63379 A

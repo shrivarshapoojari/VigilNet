@@ -1,0 +1,10 @@
+Ether / IP / UDP 192.168.0.1:1025 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 142.250.70.78:https > 192.168.0.110:51052 / Raw
+Ether / IP / UDP 192.168.0.1:1025 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.0.1:1025 > 239.255.255.250:ssdp / Raw
+Ether / IP / UDP 192.168.0.110:51052 > 142.250.70.78:https / Raw
+Ether / IP / UDP 142.250.70.78:https > 192.168.0.110:51052 / Raw
+Ether / IP / UDP 192.168.0.110:51052 > 142.250.70.78:https / Raw
+Ether / IP / UDP 142.250.70.78:https > 192.168.0.110:51052 / Raw
+Ether / IP / UDP 192.168.0.110:50268 > 142.250.183.42:https / Raw
+Ether / IP / UDP 142.250.183.42:https > 192.168.0.110:50268 / Raw

@@ -1,0 +1,10 @@
+Ether / IP / TCP 192.168.0.108:54715 > 20.192.44.68:https PA / Raw
+Ether / IP / TCP 20.192.44.68:https > 192.168.0.108:54715 A
+Ether / IP / TCP 104.22.27.181:https > 192.168.0.108:54711 PA / Raw
+Ether / IP / TCP 192.168.0.108:54711 > 104.22.27.181:https A
+Ether / IP / TCP 20.192.44.68:https > 192.168.0.108:54714 PA / Raw
+Ether / IP / TCP 192.168.0.108:54714 > 20.192.44.68:https A
+Ether / IP / TCP 20.192.44.68:https > 192.168.0.108:54715 PA / Raw
+Ether / IP / TCP 192.168.0.108:54715 > 20.192.44.68:https A
+Ether / IP / TCP 20.250.119.64:https > 192.168.0.108:55142 PA / Raw
+Ether / IP / TCP 20.250.119.64:https > 192.168.0.108:55142 PA / Raw

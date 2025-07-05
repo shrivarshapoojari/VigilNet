@@ -1,0 +1,10 @@
+Ether / IP / TCP 192.168.0.106:64405 > 20.42.65.88:https RA
+Ether / IP / TCP 192.168.0.106:63823 > 20.192.44.68:https PA / Raw
+Ether / IP / TCP 20.192.44.68:https > 192.168.0.106:63823 A
+Ether / IP / UDP / DNS Qry b'teams.events.data.microsoft.com.'
+Ether / IP / UDP / DNS Qry b'teams.events.data.microsoft.com.'
+Ether / IP / TCP 192.168.0.106:63828 > 20.195.84.16:https PA / Raw
+Ether / IP / TCP 192.168.0.106:64368 > 104.18.32.47:https PA / Raw
+Ether / IP / TCP 192.168.0.106:64368 > 104.18.32.47:https PA / Raw
+Ether / IP / TCP 192.168.0.106:63828 > 20.195.84.16:https PA / Raw
+Ether / IP / TCP 192.168.0.106:64368 > 104.18.32.47:https PA / Raw
