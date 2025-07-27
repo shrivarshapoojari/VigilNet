@@ -1,0 +1,70 @@
+MIT License with Security Testing Restrictions
+
+Copyright (c) 2025 shrivarshapoojari
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+ADDITIONAL SECURITY TESTING RESTRICTIONS:
+
+1. AUTHORIZED USE ONLY: This software is intended for testing YOUR OWN applications,
+   systems, and networks only. You must have explicit written permission to test
+   any system, network, or application that you do not own or control.
+
+2. PROHIBITED ACTIVITIES: You are strictly prohibited from using this software to:
+   - Conduct unauthorized vulnerability assessments or penetration testing
+   - Scan, probe, or test third-party websites, applications, or networks
+   - Perform security testing on systems without explicit written authorization
+   - Engage in any form of unauthorized access or intrusion attempts
+   - Use the software for malicious purposes or illegal activities
+
+3. EDUCATIONAL AND AUTHORIZED TESTING: This software is designed for:
+   - Educational purposes in controlled laboratory environments
+   - Authorized security assessments of your own systems
+   - Legitimate security research with proper authorization
+   - Testing applications and networks that you own or have written permission to test
+
+4. COMPLIANCE RESPONSIBILITY: Users are solely responsible for ensuring their use
+   of this software complies with all applicable local, state, national, and
+   international laws and regulations, including but not limited to computer
+   fraud and abuse laws, data protection regulations, and cybersecurity laws.
+
+5. ETHICAL USE: This software must be used in accordance with ethical hacking
+   principles and responsible disclosure practices. Any vulnerabilities discovered
+   must be reported responsibly to the appropriate parties.
+
+CYBERSECURITY TOOL DISCLAIMERS:
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+ADDITIONAL DISCLAIMERS:
+
+- The authors and contributors of this software disclaim any responsibility for
+  misuse of this tool or any damages resulting from its use.
+- This software may trigger security systems and alerts when used. Users are
+  responsible for any consequences of such triggering.
+- The detection capabilities of this software may not be complete or accurate.
+  Users should not rely solely on this tool for security assessments.
+- This software is provided for educational and authorized testing purposes only.
+  Commercial use requires additional consideration of licensing terms.
+- Users assume full responsibility for any legal consequences resulting from
+  the use of this software.
+
+By using this software, you acknowledge that you have read, understood, and
+agree to comply with all terms and restrictions outlined in this license.
+Violation of these terms may result in legal action and will void this license.
+
+For questions about authorized use or licensing, please contact the copyright holder.
